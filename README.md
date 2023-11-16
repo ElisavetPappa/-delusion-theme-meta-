@@ -1,1 +1,1 @@
-# -delusion-theme-meta-
+# delusion-theme-meta
